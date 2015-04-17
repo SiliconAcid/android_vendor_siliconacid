@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-#UKM v3.8.1
-PRODUCT_COPY_FILES += \
-    vendor/SiliconAcid/prebuilt/common/UPDATE-UKM_3-8-1.zip:system/addon.d/UPDATE-UKM_3-8-1.zip
-=======
-PRODUCT_PACKAGES += \
-    UKM
->>>>>>> ea4cb9cd1be1963f0df4d0853fb8762f6d72da1b
-
