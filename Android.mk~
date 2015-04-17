@@ -1,8 +1,0 @@
-LOCAL_PATH := $(call my-dir)
-
-include $(call all-makefiles-under,$(LOCAL_PATH))
-<<<<<<< HEAD
-=======
-
-endif
->>>>>>> ea4cb9cd1be1963f0df4d0853fb8762f6d72da1b
